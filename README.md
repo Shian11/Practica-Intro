@@ -1,13 +1,10 @@
 # Practica-Abogabot
 
   
-- [Toma de requerimientos](./Intro/Requerimientos/1.-Requerimientos Abogabot.pdf)
+- [Toma de requerimientos](./Intro/Requerimientos)
     
-- [Crea tu buyer persona](./2.-buyerPersona.md)
+- [Crea tu buyer persona](./Intro/Crea tu buyer persona)
   
-- [Publico objetivo](./3.-publicoObjetivo.md)
+- [Publico objetivo](./Intro/Publico objetivo)
   
-- [Crea tu primer Wireframe UX](./4.-wireframe.md)
-  
-- [Ahora el UI](./5.-ui.md)
-
+- [Crea tu primer Wireframe UX](./Intro/Crea tu primer Wireframe UX)
