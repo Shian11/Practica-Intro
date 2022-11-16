@@ -3,8 +3,8 @@
   
 - [Toma de requerimientos](./Intro/Requerimientos)
     
-- [Crea tu buyer persona](./Intro/Crea tu buyer persona)
+- [Crea tu buyer persona](./Intro/persona)
   
-- [Publico objetivo](./Intro/Publico objetivo)
+- [Publico objetivo](./Intro/Publico_objetivo)
   
 - [Crea tu primer Wireframe UX](./Intro/Crea tu primer Wireframe UX)
