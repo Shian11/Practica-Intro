@@ -1,7 +1,7 @@
 # Practica-Abogabot
 
   
-- [Toma de requerimientos](./Intro/Requerimientos)
+- [Toma de requerimientos](./Intro/Requerimientos/1.-Requerimientos Abogabot.pdf)
     
 - [Crea tu buyer persona](./2.-buyerPersona.md)
   
